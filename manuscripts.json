@@ -1,9 +1,28 @@
 [
   {
     "manuscriptFolder": "02_-_Praha,_NKP,_I_C_24_-_Winter_School",
-    "title": "Praha, NKP I C 24",
+    "title": "Pulkava`s Chronicle - Praha, NKP I C 24",
     "sourceUrl": "",
     "description": ""
+  },
+   {
+    "manuscriptFolder": "06_-_KNM,_sign__VIII_F_49_-_Winter_School",
+    "title": "Pulkava`s Chronicle - Praha, KNM VIII F 49",
+    "sourceUrl": "",
+    "description": ""
+  },
+  {
+    "manuscriptFolder": "17_-_BSB,_Clm__476_-_Winter_School",
+    "title": "Pulkava`s Chronicle - BSB, Clm 476",
+    "sourceUrl": "",
+    "description": ""
+  },
+  
+ {
+    "manuscriptFolder": "19_-_Praha,_NKP,_sign__I_D_10_-_Winter_School",
+    "title": "Pulkava`s Chronicle - NKP, I D 10",
+    "sourceUrl": "",
+    "description": "Pulkava's Chronicle is a medieval Bohemian chronicle that provides a detailed account of the history of Bohemia."
   },
   {
     "manuscriptFolder": "Chronicle_of_Dalimil_-_NKP_XII_E_17",
@@ -15,14 +34,19 @@
     "manuscriptFolder": "Cosmas_of_Prague_-_A3a_-_ÖNB_508_-_Winter_School",
     "title": "Cosmas of Prague - ÖNB 508",
     "sourceUrl": "https://viewer.onb.ac.at/13227113/12",
-    "description": "Cosmas of Prague was a medieval chronicler and priest known for his work Chronica Boemorum, which provides a detailed account of the history of Bohemia from its legendary origins to the early 12th century."
+    "description": ""
   },
- {
-    "manuscriptFolder": "19_-_Praha,_NKP,_sign__I_D_10",
-    "title": "Pulkava`s Chronicle - NKP I D 10",
-    "sourceUrl": "",
-    "description": "Pulkava's Chronicle is a medieval Bohemian chronicle that provides a detailed account of the history of Bohemia."
+  {
+    "manuscriptFolder": "Aeneas_Silvius_Piccolomini_-_Wien,_Österreichische_Nationalbibliothek,_Cod__3445_-_75-196",
+    "title": "Aneas Silvius Piccolomini, ÖNB, Cod 3445",
+    "sourceUrl": "https://viewer.onb.ac.at/13227113/12",
+    "description": "Pages still under review."
+  },
+  {
+    "manuscriptFolder": "Under Review - Aeneas_Silvius_Piccolomini_-_Wien,_Österreichische_Nationalbibliothek,_Cod__3445_-_75-196",
+    "title": "Under Review - Aneas Silvius Piccolomini, ÖNB, Cod 3445",
+    "sourceUrl": "https://viewer.onb.ac.at/13227113/12",
+    "description": "Pages that are still under review."
   }
-
 
 ]
