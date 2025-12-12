@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.33.0:model_id=92753:lm=none:date=29_10_2025_17:07</Creator>
+        <Created>2025-10-17T12:55:07.617+02:00</Created>
+        <LastChange>2025-12-03T23:49:19.704+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="11421593_0033_104475205.jpeg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1765533059800" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="613,414 2081,414 2081,2561 613,2561"/>
+            <TextLine id="r_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="616,478 1410,523 1485,483 2016,483 2016,434 1816,393 1578,438 1118,445 981,402 616,429"/>
+                <Baseline points="626,468 671,462 716,465 761,465 806,465 850,468 895,468 940,468 985,471 1030,474 1074,477 1119,477 1164,480 1209,483 1253,483 1298,483 1343,483 1388,483 1433,483 1477,483 1522,483 1567,483 1612,486 1656,486 1701,486 1746,486 1791,486 1836,486 1880,483 1925,480 1970,480 2015,480 2021,483"/>
+                <TextEquiv>
+                    <Unicode>Successit alberto heinricus septimus de quo paulo ante mencionem fecimus :</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="616,523 2052,574 2052,465 1974,509 1707,514 616,478"/>
+                <Baseline points="626,522 671,519 716,516 761,516 806,519 850,519 895,519 940,522 985,522 1030,525 1074,525 1119,528 1164,531 1209,531 1253,531 1298,528 1343,528 1388,528 1433,528 1477,528 1522,528 1567,531 1612,531 1656,534 1701,534 1746,534 1791,534 1836,534 1880,531 1925,531 1970,528 2015,528 2057,528"/>
+                <TextEquiv>
+                    <Unicode>Comes luceburgensis : consilio et animo iuxta potens : Is elisabet alteram</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="622,585 1956,622 1996,612 1994,543 620,533"/>
+                <Baseline points="632,576 677,573 722,573 767,573 812,573 856,573 901,576 946,576 991,576 1035,579 1080,582 1125,582 1170,582 1215,579 1259,579 1304,579 1349,576 1394,579 1439,576 1483,579 1528,579 1573,579 1618,582 1662,582 1707,582 1752,585 1797,585 1842,585 1886,585 1931,582 1976,582 2000,585"/>
+                <TextEquiv>
+                    <Unicode>Venczeslai sororem 8 et 10 annos clam iussam ad se uenire : apud</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="645,658 2008,665 2047,660 2045,569 1950,620 643,594"/>
+                <Baseline points="653,629 698,626 743,623 788,626 832,629 877,629 922,629 967,629 1012,632 1056,635 1101,635 1146,635 1191,638 1236,638 1280,635 1325,635 1370,635 1415,635 1459,635 1504,635 1549,635 1594,635 1639,635 1683,635 1728,638 1773,638 1818,638 1862,635 1907,635 1952,635 1997,635 2042,635 2051,635"/>
+                <TextEquiv>
+                    <Unicode>spiram gallie ciuitatem : iohanni filio suo ‧ 4 annis minori matrimonio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="616,716 1965,707 1934,649 616,651"/>
+                <Baseline points="626,683 671,680 716,683 761,683 806,683 850,683 895,683 940,683 985,686 1030,683 1074,686 1119,686 1164,686 1209,689 1253,689 1298,686 1343,689 1388,689 1433,686 1477,686 1522,689 1567,686 1612,689 1656,689 1701,689 1746,689 1791,686 1836,686 1880,686 1925,689 1970,686"/>
+                <TextEquiv>
+                    <Unicode>coniunxit Eodemque tempore : tribus comparatis exercitibus : unum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="631,762 1063,780 1121,743 1281,789 1396,752 1503,791 1605,752 2056,752 2056,700 631,718"/>
+                <Baseline points="641,743 671,743 716,740 761,737 806,737 850,737 895,740 940,740 985,740 1030,740 1074,743 1119,743 1164,746 1209,746 1253,746 1298,746 1343,746 1388,746 1433,746 1477,749 1522,746 1567,746 1612,743 1656,746 1701,743 1746,743 1791,743 1836,743 1880,743 1925,740 1970,740 2015,740 2060,737"/>
+                <TextEquiv>
+                    <Unicode>ipse in italiam duxit aduersus brixienses : Quos armis euictos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="631,812 2016,832 1990,745 1498,791 1414,756 1290,787 631,762"/>
+                <Baseline points="641,797 677,794 722,794 767,794 812,794 856,794 901,794 946,794 991,797 1035,797 1080,800 1125,800 1170,800 1215,800 1259,803 1304,803 1349,803 1394,806 1439,806 1483,803 1528,806 1573,806 1618,803 1662,806 1707,803 1752,803 1797,803 1842,800 1886,800 1931,797 1976,794 2021,791"/>
+                <TextEquiv>
+                    <Unicode>imperata facere compulit : lambardosque omnes in potestatem accepit :</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="620,861 923,894 1036,860 1296,909 1968,860 1881,807 1467,849 620,809"/>
+                <Baseline points="629,853 674,850 719,850 764,850 809,850 853,853 898,853 943,853 988,853 1032,853 1077,856 1122,859 1167,859 1212,859 1256,862 1301,862 1346,862 1391,865 1436,862 1480,862 1525,865 1570,862 1615,862 1659,862 1704,859 1749,859 1794,856 1839,856 1883,853 1928,850 1973,847"/>
+                <TextEquiv>
+                    <Unicode>alterum aduersus comites uictembergenses direxit : Sacro imperio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="625,925 1583,965 2034,916 2034,856 1536,905 625,880"/>
+                <Baseline points="635,910 650,913 695,913 740,913 785,913 829,913 874,913 919,916 964,916 1009,916 1053,919 1098,922 1143,922 1188,925 1233,925 1277,925 1322,925 1367,925 1412,925 1456,922 1501,925 1546,922 1591,925 1636,922 1680,919 1725,919 1770,916 1815,916 1859,913 1904,910 1949,907 1994,904 2039,904"/>
+                <TextEquiv>
+                    <Unicode>rebelles : Quibus 80 : castellis : ac munitissimis oppidis que obtinebant</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="625,992 1983,991 1983,945 1908,934 1201,963 625,925"/>
+                <Baseline points="635,979 644,976 689,973 734,973 779,973 824,973 868,973 913,973 958,976 1003,976 1047,976 1092,979 1137,979 1182,979 1227,979 1271,979 1316,976 1361,976 1406,976 1450,976 1495,976 1540,979 1585,979 1630,976 1674,976 1719,976 1764,976 1809,973 1854,973 1898,973 1943,970 1988,976"/>
+                <TextEquiv>
+                    <Unicode>duo et lxx armis expugnata ademit : tercium ex franconibus :</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="616,1038 1990,1058 1963,989 616,1011"/>
+                <Baseline points="626,1032 671,1032 716,1030 761,1030 806,1027 850,1030 895,1030 940,1032 985,1030 1030,1030 1074,1032 1119,1032 1164,1032 1209,1035 1253,1035 1298,1035 1343,1035 1388,1035 1433,1035 1477,1035 1522,1035 1567,1035 1612,1035 1656,1032 1701,1032 1746,1032 1791,1032 1836,1030 1880,1032 1925,1032 1970,1032 1994,1032"/>
+                <TextEquiv>
+                    <Unicode>ac boioariis comparatum duce petro archiepiscopo Maguntino : Cum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="629,1120 2036,1105 2012,1047 629,1043"/>
+                <Baseline points="638,1086 650,1083 695,1083 740,1080 785,1083 829,1083 874,1083 919,1083 964,1083 1009,1083 1053,1086 1098,1086 1143,1089 1188,1089 1233,1089 1277,1089 1322,1089 1367,1089 1412,1089 1456,1089 1501,1089 1546,1092 1591,1092 1636,1092 1680,1092 1725,1092 1770,1092 1815,1089 1859,1089 1904,1089 1949,1086 1994,1083 2039,1083"/>
+                <TextEquiv>
+                    <Unicode>filio in bohemiam misit : hic est ille heinricus : qui rome coronatus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="622,1145 1470,1189 2025,1158 2025,1094 1983,1092 622,1116"/>
+                <Baseline points="632,1137 641,1140 686,1137 731,1137 776,1137 821,1137 865,1137 910,1137 955,1140 1000,1140 1044,1143 1089,1140 1134,1143 1179,1146 1224,1143 1268,1143 1313,1143 1358,1143 1403,1143 1447,1143 1492,1143 1537,1143 1582,1146 1627,1146 1671,1143 1716,1143 1761,1143 1806,1143 1851,1143 1895,1143 1940,1140 1985,1140 2030,1134"/>
+                <TextEquiv>
+                    <Unicode>renitente ruperto rege neapolitano : florenciam obsidione artissima</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="629,1214 1965,1225 1965,1152 1472,1190 1363,1154 1101,1185 629,1150"/>
+                <Baseline points="638,1197 671,1194 716,1194 761,1197 806,1197 850,1197 895,1197 940,1197 985,1200 1030,1200 1074,1203 1119,1203 1164,1203 1209,1203 1253,1203 1298,1200 1343,1200 1388,1200 1433,1203 1477,1203 1522,1206 1567,1203 1612,1203 1656,1203 1701,1200 1746,1200 1791,1197 1836,1194 1880,1194 1925,1191 1970,1188"/>
+                <TextEquiv>
+                    <Unicode>Cinxit ‧ pisas senasque in potestate habuit : Et apud bonumconuentum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="631,1258 1083,1300 1719,1258 1825,1301 1968,1256 1968,1225 1748,1205 1505,1240 631,1223"/>
+                <Baseline points="641,1253 686,1250 731,1250 776,1253 821,1253 865,1253 910,1253 955,1253 1000,1256 1044,1259 1089,1259 1134,1259 1179,1259 1224,1256 1268,1259 1313,1256 1358,1259 1403,1256 1447,1256 1492,1256 1537,1256 1582,1256 1627,1253 1671,1253 1716,1253 1761,1253 1806,1250 1851,1250 1895,1250 1940,1250 1973,1253"/>
+                <TextEquiv>
+                    <Unicode>in agro Senensi : hostili fraude : ueneno extinctus fertur : Cuius</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="629,1339 1892,1352 2025,1323 2027,1256 1083,1300 629,1260"/>
+                <Baseline points="638,1310 641,1313 686,1310 731,1310 776,1310 821,1310 865,1310 910,1310 955,1310 1000,1313 1044,1313 1089,1316 1134,1316 1179,1316 1224,1316 1268,1316 1313,1316 1358,1316 1403,1319 1447,1319 1492,1319 1537,1316 1582,1316 1627,1313 1671,1313 1716,1310 1761,1307 1806,1307 1851,1304 1895,1304 1940,1301 1985,1301 2030,1298"/>
+                <TextEquiv>
+                    <Unicode>corpus in uetusto ac nobili pisarum templo sublimi loco : post aram</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="622,1390 2010,1381 1950,1314 1892,1354 622,1334"/>
+                <Baseline points="632,1364 677,1364 722,1364 767,1364 812,1364 856,1364 901,1364 946,1364 991,1364 1035,1364 1080,1364 1125,1367 1170,1370 1215,1373 1259,1373 1304,1373 1349,1376 1394,1376 1439,1376 1483,1373 1528,1373 1573,1373 1618,1373 1662,1370 1707,1370 1752,1370 1797,1367 1842,1367 1886,1370 1931,1367 1976,1367 2015,1373"/>
+                <TextEquiv>
+                    <Unicode>maiorem amici condiderunt : pugnatum est in bohemia pluribus locis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="622,1436 1487,1469 2066,1434 2016,1385 622,1392"/>
+                <Baseline points="632,1421 638,1421 683,1415 728,1418 773,1418 818,1418 862,1418 907,1421 952,1421 997,1421 1041,1421 1086,1424 1131,1424 1176,1427 1221,1427 1265,1430 1310,1430 1355,1430 1400,1430 1444,1427 1489,1430 1534,1430 1579,1427 1624,1427 1668,1427 1713,1430 1758,1427 1803,1427 1848,1427 1892,1427 1937,1424 1982,1421 2027,1418 2071,1415"/>
+                <TextEquiv>
+                    <Unicode>Cum alii bohemorum iohannem regnare cuperent : alii heinrico studerent</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="605,1489 2063,1503 2034,1434 1932,1467 605,1447"/>
+                <Baseline points="615,1483 659,1480 704,1477 749,1477 794,1477 838,1477 883,1477 928,1477 973,1477 1018,1477 1062,1477 1107,1480 1152,1480 1197,1483 1241,1483 1286,1486 1331,1486 1376,1486 1421,1489 1465,1489 1510,1489 1555,1489 1600,1489 1645,1489 1689,1489 1734,1489 1779,1489 1824,1489 1868,1489 1913,1486 1958,1486 2003,1483 2048,1483 2068,1486"/>
+                <TextEquiv>
+                    <Unicode>Qui iam cum tribus imperatorum filiis de regni possessione contendisset :</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="629,1563 1974,1549 1952,1505 629,1498"/>
+                <Baseline points="638,1543 680,1540 725,1540 770,1540 815,1537 859,1534 904,1537 949,1534 994,1534 1038,1534 1083,1531 1128,1534 1173,1534 1218,1537 1262,1537 1307,1537 1352,1537 1397,1540 1442,1543 1486,1543 1531,1543 1576,1546 1621,1546 1665,1549 1710,1549 1755,1546 1800,1543 1845,1540 1889,1540 1934,1537 1979,1537"/>
+                <TextEquiv>
+                    <Unicode>obsessa est denique praga regni caput ‧ diuque opugnata Cum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="622,1618 1956,1616 1928,1545 1670,1581 1178,1536 1052,1574 622,1563"/>
+                <Baseline points="632,1603 662,1597 707,1597 752,1594 797,1591 841,1591 886,1591 931,1591 976,1591 1021,1591 1065,1591 1110,1591 1155,1594 1200,1594 1244,1591 1289,1594 1334,1594 1379,1594 1424,1594 1468,1594 1513,1597 1558,1597 1603,1597 1648,1597 1692,1597 1737,1600 1782,1597 1827,1597 1871,1594 1916,1594 1961,1594"/>
+                <TextEquiv>
+                    <Unicode>heinricus et machio misnensis haud pigre menia tuerentur : ad</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="620,1670 1530,1658 1723,1696 1956,1656 1956,1616 620,1618"/>
+                <Baseline points="629,1659 662,1653 707,1653 752,1650 797,1650 841,1650 886,1650 931,1650 976,1650 1021,1650 1065,1650 1110,1650 1155,1650 1200,1653 1244,1650 1289,1650 1334,1648 1379,1648 1424,1648 1468,1650 1513,1650 1558,1650 1603,1653 1648,1653 1692,1650 1737,1650 1782,1650 1827,1648 1871,1648 1916,1648 1961,1648"/>
+                <TextEquiv>
+                    <Unicode>extremum tamen oppidanorum prodicione iohanni tradita · hosti in arcem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="631,1741 1992,1716 1992,1676 1836,1656 1728,1692 631,1672"/>
+                <Baseline points="641,1731 653,1716 698,1713 743,1710 788,1710 832,1707 877,1707 922,1707 967,1707 1012,1704 1056,1704 1101,1707 1146,1707 1191,1704 1236,1704 1280,1704 1325,1704 1370,1707 1415,1704 1459,1704 1504,1704 1549,1704 1594,1707 1639,1704 1683,1707 1728,1704 1773,1704 1818,1704 1862,1704 1907,1704 1952,1707 1997,1710"/>
+                <TextEquiv>
+                    <Unicode>sese recepit : Nec multis post diebus in carinthiam profugit : Ex</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="622,1807 792,1810 863,1768 947,1803 1238,1770 1298,1810 1552,1774 1992,1807 2047,1790 2048,1714 1545,1745 1409,1705 1249,1747 1011,1708 622,1754"/>
+                <Baseline points="632,1776 662,1773 707,1773 752,1770 797,1770 841,1770 886,1767 931,1767 976,1767 1021,1764 1065,1764 1110,1764 1155,1764 1200,1761 1244,1761 1289,1761 1334,1761 1379,1761 1424,1761 1468,1764 1513,1764 1558,1761 1603,1764 1648,1764 1692,1764 1737,1761 1782,1761 1827,1761 1871,1761 1916,1761 1961,1761 2006,1758 2051,1758"/>
+                <TextEquiv>
+                    <Unicode>eo tempore ad Sigismundum imperatorem bohemia in potestate luteburgensium</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="654,1832 843,1867 1981,1847 1957,1785 654,1798"/>
+                <Baseline points="665,1830 686,1824 731,1824 776,1824 821,1827 865,1824 910,1824 955,1824 1000,1824 1044,1827 1089,1824 1134,1824 1179,1827 1224,1824 1268,1824 1313,1824 1358,1824 1403,1821 1447,1821 1492,1818 1537,1821 1582,1821 1627,1821 1671,1818 1716,1818 1761,1818 1806,1818 1851,1818 1895,1815 1940,1815 1985,1815"/>
+                <TextEquiv>
+                    <Unicode>per annos ferme cxxvi : fuit ‧ iohannes potenti manu regnum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="616,1908 1350,1877 1581,1919 1658,1877 2023,1887 2025,1830 616,1870"/>
+                <Baseline points="626,1886 641,1889 686,1886 731,1886 776,1886 821,1886 865,1889 910,1886 955,1886 1000,1883 1044,1880 1089,1880 1134,1880 1179,1880 1224,1880 1268,1877 1313,1877 1358,1877 1403,1877 1447,1877 1492,1877 1537,1877 1582,1877 1627,1877 1671,1877 1716,1877 1761,1877 1806,1874 1851,1874 1895,1874 1940,1874 1985,1871 2030,1868"/>
+                <TextEquiv>
+                    <Unicode>gubernauit : Et patre in italia agente : apud germanos uicario</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="622,1950 1923,1972 2010,1959 2012,1885 623,1910"/>
+                <Baseline points="632,1940 671,1940 716,1940 761,1937 806,1940 850,1940 895,1940 940,1940 985,1940 1030,1937 1074,1934 1119,1937 1164,1934 1209,1934 1253,1934 1298,1934 1343,1934 1388,1931 1433,1934 1477,1934 1522,1934 1567,1931 1612,1934 1656,1931 1701,1934 1746,1931 1791,1931 1836,1928 1880,1928 1925,1928 1970,1925 2015,1925"/>
+                <TextEquiv>
+                    <Unicode>nomine administrauit imperium : patre uero defuncto : cum plurime</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="616,1999 2032,2025 2032,1948 616,1974"/>
+                <Baseline points="626,1997 647,1994 692,1994 737,1994 782,1994 826,1994 871,1994 916,1994 961,1997 1006,1997 1050,1994 1095,1994 1140,1994 1185,1994 1230,1994 1274,1991 1319,1994 1364,1988 1409,1991 1453,1991 1498,1991 1543,1991 1588,1988 1633,1991 1677,1991 1722,1991 1767,1991 1812,1991 1857,1991 1901,1991 1946,1991 1991,1991 2036,1991"/>
+                <TextEquiv>
+                    <Unicode>italie ciuitates ei sese dedissent : pentrauit alpes cum exercitu : Easque</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="625,2063 1694,2092 2005,2057 1954,2007 625,2025"/>
+                <Baseline points="635,2054 665,2051 710,2048 755,2048 800,2048 844,2051 889,2051 934,2054 979,2054 1024,2054 1068,2054 1113,2054 1158,2054 1203,2051 1247,2051 1292,2054 1337,2054 1382,2054 1427,2051 1471,2051 1516,2051 1561,2051 1606,2048 1650,2048 1695,2048 1740,2048 1785,2048 1830,2048 1874,2048 1919,2051 1964,2051 2009,2051"/>
+                <TextEquiv>
+                    <Unicode>non paucis annis tutatus est : dum fredericus austrie et ludouicus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="620,2128 1996,2117 1985,2061 1280,2094 620,2063"/>
+                <Baseline points="629,2116 656,2110 701,2107 746,2107 791,2107 835,2107 880,2107 925,2107 970,2107 1015,2104 1059,2107 1104,2107 1149,2107 1194,2107 1238,2107 1283,2107 1328,2107 1373,2107 1418,2107 1462,2107 1507,2107 1552,2107 1597,2107 1642,2107 1686,2107 1731,2107 1776,2104 1821,2104 1865,2104 1910,2104 1955,2101 2000,2098"/>
+                <TextEquiv>
+                    <Unicode>boioarie princeps : de romano imperio inter se contendunt : fuerunt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="620,2194 1857,2199 2054,2181 2056,2110 620,2152"/>
+                <Baseline points="629,2173 668,2170 713,2170 758,2167 803,2167 847,2167 892,2164 937,2164 982,2164 1027,2167 1071,2164 1116,2167 1161,2164 1206,2167 1250,2167 1295,2167 1340,2167 1385,2167 1430,2164 1474,2164 1519,2164 1564,2167 1609,2164 1653,2164 1698,2164 1743,2167 1788,2164 1833,2164 1877,2164 1922,2161 1967,2161 2012,2158 2057,2158"/>
+                <TextEquiv>
+                    <Unicode>ei : Et cum coniuge graues dissensiones : baronibus regni : Reginam a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="629,2248 1981,2230 1968,2174 631,2196"/>
+                <Baseline points="638,2227 641,2227 686,2227 731,2227 776,2227 821,2227 865,2227 910,2227 955,2230 1000,2227 1044,2224 1089,2224 1134,2224 1179,2224 1224,2224 1268,2224 1313,2224 1358,2224 1403,2224 1447,2221 1492,2221 1537,2221 1582,2221 1627,2221 1671,2221 1716,2218 1761,2218 1806,2218 1851,2218 1895,2218 1940,2218 1985,2215"/>
+                <TextEquiv>
+                    <Unicode>rege subtrahentibus : tanquam bohemorum inimico : qui theutones</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="625,2312 1990,2303 1990,2243 1781,2232 625,2246"/>
+                <Baseline points="635,2292 650,2289 695,2289 740,2289 785,2286 829,2286 874,2286 919,2286 964,2286 1009,2283 1053,2283 1098,2283 1143,2283 1188,2283 1233,2283 1277,2283 1322,2283 1367,2283 1412,2283 1456,2283 1501,2280 1546,2280 1591,2283 1636,2280 1680,2280 1725,2280 1770,2280 1815,2277 1859,2277 1904,2274 1949,2274 1994,2274"/>
+                <TextEquiv>
+                    <Unicode>in primis haberet acceptos : uentum licet ad arma : affectum magnis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="616,2363 1992,2365 1992,2305 1937,2292 616,2328"/>
+                <Baseline points="626,2349 653,2346 698,2346 743,2346 788,2346 832,2343 877,2343 922,2343 967,2343 1012,2343 1056,2343 1101,2346 1146,2343 1191,2343 1236,2343 1280,2340 1325,2340 1370,2337 1415,2337 1459,2340 1504,2337 1549,2337 1594,2337 1639,2340 1683,2337 1728,2337 1773,2334 1818,2334 1862,2334 1907,2331 1952,2331 1997,2325"/>
+                <TextEquiv>
+                    <Unicode>calamitatibus regnum : uix tandem composite lites post hec egra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="616,2415 1194,2439 1245,2405 1318,2435 1963,2397 1894,2352 618,2363"/>
+                <Baseline points="626,2406 668,2403 713,2403 758,2403 803,2403 847,2403 892,2403 937,2403 982,2403 1027,2400 1071,2400 1116,2400 1161,2397 1206,2397 1250,2397 1295,2397 1340,2397 1385,2397 1430,2400 1474,2400 1519,2397 1564,2397 1609,2397 1653,2397 1698,2394 1743,2394 1788,2394 1833,2391 1877,2391 1922,2388 1967,2388"/>
+                <TextEquiv>
+                    <Unicode>a iohanne recepta ‧ Et uratislauiensium ciuitas Quam dux Sclesie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_36" custom="readingOrder {index:35;}">
+                <Coords points="614,2485 1941,2468 1905,2401 616,2441"/>
+                <Baseline points="626,2466 644,2463 689,2463 734,2463 779,2460 824,2460 868,2460 913,2460 958,2460 1003,2460 1047,2460 1092,2457 1137,2460 1182,2457 1227,2457 1271,2457 1316,2454 1361,2457 1406,2454 1450,2454 1495,2454 1540,2454 1585,2451 1630,2451 1674,2448 1719,2448 1764,2448 1809,2448 1854,2448 1898,2445 1943,2445"/>
+                <TextEquiv>
+                    <Unicode>occuparat heinricus lignicium quoque et complures alie Sclesie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_37" custom="readingOrder {index:36;}">
+                <Coords points="622,2561 1965,2544 1967,2466 622,2477"/>
+                <Baseline points="632,2519 668,2519 713,2519 758,2519 803,2516 847,2516 892,2516 937,2516 982,2516 1027,2516 1071,2516 1116,2513 1161,2513 1206,2513 1250,2513 1295,2513 1340,2513 1385,2513 1430,2513 1474,2513 1519,2513 1564,2513 1609,2510 1653,2510 1698,2507 1743,2504 1788,2501 1833,2501 1877,2498 1922,2498 1967,2498"/>
+                <TextEquiv>
+                    <Unicode>ciuitates : iohanni subiciuntur : Geritus et aduersus australes bellum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

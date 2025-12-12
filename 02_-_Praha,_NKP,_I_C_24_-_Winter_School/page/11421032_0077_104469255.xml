@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.33.1:model_id=350585:lm=none:date=02_11_2025_23:18</Creator>
+        <Created>2022-05-16T16:02:40.044+02:00</Created>
+        <LastChange>2025-12-04T10:52:47.844+01:00</LastChange>
+        <TranskribusMetadata docId="11421032" pageId="104469255" pageNr="77" tsid="263640009" status="GT" userId="290129" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=WCMRIQHKNJSVTHENHQEUIEGX" xmlUrl="https://files.transkribus.eu/Get?id=OLCZQHMFLUYORTAISCXHRDAM" imageId="30942306"/>
+    </Metadata>
+    <Page imageFilename="11421032_0077_104469255.jpg" imageWidth="944" imageHeight="1371">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1765532634140" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="124,39 124,1149 897,1149 897,39"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+                <Coords points="119,178 741,187 741,137 607,158 558,139 350,151 294,128 119,142"/>
+                <Baseline points="124,171 156,170 189,170 221,170 254,170 286,170 319,170 352,171 384,171 417,172 449,173 482,174 514,175 547,176 580,177 594,188 645,178 677,179 710,179 743,180"/>
+                <TextEquiv>
+                    <Unicode>Swatopluk principatum regni esset adeptus / continuo perrexit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;} unclear {offset:56; length:9;}">
+                <Coords points="147,211 752,209 742,184 682,199 641,181 557,197 146,180"/>
+                <Baseline points="151,199 181,198 211,198 241,198 271,202 301,198 331,199 362,199 392,200 422,201 452,201 482,202 512,203 542,203 562,211 603,205 633,205 663,205 693,206 723,206 754,206"/>
+                <TextEquiv>
+                    <Unicode>in Srbiam / ad wilbertum sororinum suum / cuius nec non quorumdam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="140,232 731,245 710,210 139,206"/>
+                <Baseline points="144,223 173,223 202,222 232,222 261,222 291,223 320,223 350,224 379,224 409,225 438,226 467,227 497,228 526,229 556,230 585,230 615,231 644,231 674,231 703,231 733,231"/>
+                <TextEquiv>
+                    <Unicode>de boemia et aliorum suffultus auxilio / Boemie regnum in¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;} add {offset:54; length:8;place:above\u0020the\u0020line\u0020(later\u0020hand);} corr {offset:63; length:5;comment:urebem\u0020corrected\u0020to\u0020urbem;}">
+                <Coords points="144,256 718,264 699,236 143,229"/>
+                <Baseline points="149,249 177,248 206,248 234,248 263,249 291,249 320,250 348,250 377,251 405,252 434,253 462,253 491,254 519,255 548,255 576,256 605,256 635,261 631,241 676,248 645,262 692,260 705,259 724,257"/>
+                <TextEquiv>
+                    <Unicode>trans in uigilia natiuitatis domini nemine resistente latenter urbem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="142,292 752,296 738,264 142,250"/>
+                <Baseline points="147,274 177,274 207,275 237,276 268,276 298,277 341,282 358,278 389,279 419,280 449,280 479,281 510,281 540,282 570,282 600,282 631,282 661,282 691,282 721,282 752,281"/>
+                <TextEquiv>
+                    <Unicode>pragensem ingressus est ‧ Vnde factum est quod plures dimissis uxo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="144,318 745,320 745,294 637,284 516,299 144,283"/>
+                <Baseline points="149,305 178,304 208,303 238,303 268,303 298,303 328,304 358,304 388,305 418,305 448,306 477,306 507,307 537,308 567,308 597,308 627,308 657,308 687,308 717,308 747,307"/>
+                <TextEquiv>
+                    <Unicode>ribus pueris et rebus eorum extra pragam fugam arripiunt ‧</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="135,347 722,336 711,313 135,311"/>
+                <Baseline points="140,334 169,332 198,331 227,330 256,330 286,330 315,330 344,330 373,330 402,331 432,332 461,332 490,333 519,333 548,334 578,334 607,334 636,333 665,333 694,332 724,331"/>
+                <TextEquiv>
+                    <Unicode>aliis qui pro parte Borziuoy fuerant / ibidem manentibus ‧</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="135,368 694,376 734,371 733,346 134,348"/>
+                <Baseline points="140,363 169,361 199,360 229,359 259,358 288,358 318,358 348,358 378,358 407,359 437,359 467,360 497,360 526,361 556,361 586,361 616,361 645,361 675,360 705,359 735,357"/>
+                <TextEquiv>
+                    <Unicode>Vbi eciam hermanus presul in palacio suo repertus depre¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+                <Coords points="143,397 730,391 715,363 143,369"/>
+                <Baseline points="148,388 177,388 206,387 235,387 264,387 294,387 323,387 352,387 381,388 410,388 440,388 475,392 498,388 527,389 556,389 586,388 615,388 644,388 673,387 702,387 732,386"/>
+                <TextEquiv>
+                    <Unicode>henditur et custodie mancipatur ‧ Fabianus uero comes ur¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+                <Coords points="135,428 734,417 734,394 695,389 135,399"/>
+                <Baseline points="140,416 169,415 199,415 229,414 259,414 289,414 318,414 348,414 378,414 408,414 438,414 467,414 497,415 527,415 557,415 587,414 616,414 646,414 676,413 706,412 736,412"/>
+                <TextEquiv>
+                    <Unicode>be Wissergradensi sibi commissa / dimissa similiter aufugit / hinc fit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:10;}">
+                <Coords points="144,449 744,439 725,417 144,422"/>
+                <Baseline points="149,445 178,444 208,442 238,441 268,440 298,440 328,439 357,439 387,439 417,440 447,440 477,440 507,440 537,440 566,440 596,440 626,440 656,439 686,438 716,437 746,434"/>
+                <TextEquiv>
+                    <Unicode>multus tumultus et rumor in regno boemie de nouitabus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:11;}">
+                <Coords points="141,474 735,477 735,441 141,450"/>
+                <Baseline points="146,471 175,470 205,469 234,474 264,467 293,466 323,466 352,466 382,466 411,466 441,466 470,466 500,466 529,466 559,466 588,466 618,466 647,466 677,465 706,464 736,463"/>
+                <TextEquiv>
+                    <Unicode>supradictis / alii pragam confluunt ‧ alii assumptis complicibus suis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:12;}">
+                <Coords points="142,507 733,508 716,471 142,485"/>
+                <Baseline points="147,498 176,498 205,496 235,496 264,495 294,495 323,495 352,495 382,494 411,494 441,494 470,494 499,495 529,495 558,495 588,495 617,495 646,494 676,494 705,494 736,500"/>
+                <TextEquiv>
+                    <Unicode>undique per uillas currunt ipsasque destruunt et deuastant /</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:13;}">
+                <Coords points="139,533 729,527 729,504 596,498 139,510"/>
+                <Baseline points="144,528 173,526 202,524 232,523 261,523 290,522 320,522 349,522 378,522 408,522 437,522 466,522 496,523 525,523 554,523 584,523 613,523 642,523 672,522 701,521 731,520"/>
+                <TextEquiv>
+                    <Unicode>Et eadem die Borziuoy in castrum Wissegradense se recepit / </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:14;}">
+                <Coords points="138,563 734,555 716,526 138,535"/>
+                <Baseline points="143,556 172,554 202,553 231,552 261,551 291,551 320,550 350,550 380,550 409,550 439,550 469,551 498,551 528,551 558,552 587,552 617,552 647,552 676,552 706,552 736,551"/>
+                <TextEquiv>
+                    <Unicode>Altera uero die pragam reuertitur et cum et  magna cleri processione</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:15;}">
+                <Coords points="143,590 717,586 717,562 615,556 143,562"/>
+                <Baseline points="148,583 176,583 205,582 234,587 262,581 290,581 319,581 347,580 376,580 404,580 433,580 462,579 490,579 519,579 547,579 576,579 604,579 633,579 661,580 690,580 719,580"/>
+                <TextEquiv>
+                    <Unicode>scuscipitur ‧ qui ibidem audita missa iterum Wyssegrad reuertitur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:16;}">
+                <Coords points="139,630 331,611 600,624 728,614 729,587 139,597"/>
+                <Baseline points="144,613 173,612 202,611 231,611 261,610 290,610 319,610 348,609 378,609 407,609 436,609 465,608 495,608 524,608 553,607 582,607 612,606 641,606 670,605 699,605 729,604"/>
+                <TextEquiv>
+                    <Unicode>Interea eadem nocte otto secundogenitus frater swatopluk cum wa¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:17;}">
+                <Coords points="141,651 723,635 708,608 141,628"/>
+                <Baseline points="146,640 176,640 206,639 237,638 267,638 298,638 328,637 359,637 389,637 420,636 450,636 481,636 511,635 542,635 572,634 603,633 633,632 664,631 694,630 725,629"/>
+                <TextEquiv>
+                    <Unicode>czkone Barone prefato de castro hradek cum magno exercitu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:18;}">
+                <Coords points="141,674 722,672 729,645 141,651"/>
+                <Baseline points="146,666 175,665 204,665 233,665 262,664 292,664 321,663 350,663 379,663 408,662 438,662 467,661 496,661 525,660 554,660 584,660 613,659 650,667 671,659 700,659 730,658"/>
+                <TextEquiv>
+                    <Unicode>uenientes circa rokytnik riuulum casta metatus ‧ Altera </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:19;}">
+                <Coords points="138,699 732,692 723,664 138,675"/>
+                <Baseline points="143,692 172,692 202,692 231,692 261,692 290,692 320,691 349,691 379,691 408,690 438,689 455,694 497,688 526,688 556,686 585,686 615,685 644,684 674,683 703,683 733,682"/>
+                <TextEquiv>
+                    <Unicode>die castrum Wissegradense ‧ obsederunt / Et ut nullus ingredi et egre¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:20;}">
+                <Coords points="138,727 738,724 738,691 138,699"/>
+                <Baseline points="143,722 172,722 202,721 218,726 262,720 292,719 322,719 351,718 381,718 411,717 441,716 471,716 506,719 531,715 560,714 590,714 620,713 650,713 680,712 710,712 740,712"/>
+                <TextEquiv>
+                    <Unicode>di posset ‧ posuit circumquaque custodes ‧ Demum post triduum wla¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:21;} add {offset:54; length:3;place:above\u0020the\u0020line\u0020(later\u0020hand);}">
+                <Coords points="130,764 745,750 756,723 668,717 130,731"/>
+                <Baseline points="135,750 173,750 211,749 249,748 287,748 325,747 363,746 401,745 439,744 477,742 516,742 554,740 592,740 630,739 665,746 662,727 674,726 671,746 706,744 733,738"/>
+                <TextEquiv>
+                    <Unicode>dislaus predictus de ciuitate plsnensi cum suis pragam ad portas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:22;}">
+                <Coords points="138,787 720,785 735,745 138,763"/>
+                <Baseline points="143,779 172,778 202,777 231,775 261,775 291,774 320,773 350,772 380,772 409,771 439,771 469,770 498,770 528,769 558,769 587,768 617,768 647,767 676,767 706,766 736,765"/>
+                <TextEquiv>
+                    <Unicode>et hominibus armatis munitas ‧ qui loquens ad eos ut ipsum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:23;}">
+                <Coords points="141,815 714,800 714,774 680,769 142,786"/>
+                <Baseline points="146,807 174,806 203,805 231,804 260,803 288,802 317,802 345,801 374,800 402,799 431,799 459,798 488,797 516,797 545,796 573,796 602,795 630,795 659,794 687,794 716,793"/>
+                <TextEquiv>
+                    <Unicode>pacifice urbem intrare permitterent ‧ sed a nemine rursum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:24;} add {offset:47; length:2;place:above\u0020the\u0020line\u0020(later\u0020hand);}">
+                <Coords points="142,839 626,838 722,823 723,807 143,811"/>
+                <Baseline points="148,832 176,832 205,832 239,833 263,831 292,831 320,830 349,830 378,829 407,828 436,827 464,826 493,825 522,824 551,823 580,822 620,828 619,810 626,809 626,826 637,820 666,819 695,818 724,817"/>
+                <TextEquiv>
+                    <Unicode>obtinuit ‧ Vnde prouocatus ualde recedit usque ad fluuium</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:25;}">
+                <Coords points="141,868 590,871 727,855 728,821 628,839 141,839"/>
+                <Baseline points="146,861 175,861 204,860 233,860 262,859 291,858 320,858 350,857 379,856 408,855 437,854 466,853 495,852 524,852 554,851 583,850 612,849 641,848 670,848 699,847 729,847"/>
+                <TextEquiv>
+                    <Unicode>Brusswyk ‧ Et ut supercilium montis ascendisset uidit a longe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:26;}">
+                <Coords points="138,906 337,885 403,902 423,886 680,890 723,882 724,857 287,862 213,882 139,868"/>
+                <Baseline points="143,889 172,888 201,888 230,887 259,886 288,886 317,885 346,884 375,884 404,883 433,882 462,882 491,881 520,880 549,879 578,878 607,878 636,877 665,876 694,875 724,874"/>
+                <TextEquiv>
+                    <Unicode>exercitum appropinquare ‧ et missis exploratoribus comperit filium</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:27;} textStyle {offset:39; length:6;underlined}">
+                <Coords points="134,925 721,909 714,880 135,904"/>
+                <Baseline points="140,918 169,918 198,917 227,916 256,916 286,915 315,914 344,913 373,912 402,911 432,910 461,908 490,907 519,906 548,905 578,904 607,903 636,902 665,901 694,900 724,899"/>
+                <TextEquiv>
+                    <Unicode>Wilgberti wratislaum tum suis Borziuoy patruo suo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:28;}">
+                <Coords points="134,947 656,945 715,934 716,914 134,927"/>
+                <Baseline points="139,944 169,943 199,943 230,942 260,941 291,940 321,939 352,938 382,937 396,940 443,935 474,934 504,933 535,932 565,931 596,930 626,929 657,928 687,927 718,926"/>
+                <TextEquiv>
+                    <Unicode>in auxilium aduenire ‧ Et licet wladilaus sine pugna</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:29;}">
+                <Coords points="139,979 733,969 732,929 140,949"/>
+                <Baseline points="144,970 173,970 203,969 232,968 262,968 291,967 311,976 350,965 380,965 409,964 439,963 469,962 498,961 528,960 557,960 587,958 616,957 646,956 675,955 705,954 735,952"/>
+                <TextEquiv>
+                    <Unicode>preterire uolebat / tamen induccione theodrici filii bozey cum ad¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:30;}">
+                <Coords points="138,1004 726,988 721,957 594,977 139,978"/>
+                <Baseline points="143,1000 172,999 201,997 230,997 260,995 289,994 318,994 347,993 377,992 406,995 435,990 464,990 494,989 523,988 552,987 581,986 611,985 640,984 669,983 698,981 728,980"/>
+                <TextEquiv>
+                    <Unicode>uersa parte bellum iniens / ubi wladislaus primus seuit in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:31;}">
+                <Coords points="138,1036 724,1022 706,984 600,1006 483,991 139,1007"/>
+                <Baseline points="144,1030 173,1029 212,1031 231,1025 260,1024 289,1022 318,1022 348,1020 377,1020 406,1018 435,1018 464,1017 496,1025 522,1016 552,1015 581,1014 610,1013 639,1013 668,1012 697,1010 727,1009"/>
+                <TextEquiv>
+                    <Unicode>hostes / et de ipsis uictor extitit / ac tristem wilgberti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:32;}">
+                <Coords points="139,1063 712,1055 741,1017 139,1036"/>
+                <Baseline points="144,1057 175,1055 207,1054 238,1053 270,1052 301,1051 333,1050 364,1049 396,1048 427,1047 459,1046 490,1045 522,1045 553,1044 585,1043 616,1041 648,1040 679,1039 711,1038 743,1036"/>
+                <TextEquiv>
+                    <Unicode>filium in urbem pragensem fugauit ‧ de cuius gentibus quotquot uul¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1" custom="readingOrder {index:33;} corr {offset:0; length:6;comment:subsequent\u0020word\u0020\u0022sunt\u0022\u0020crossed\u0020out\u0020by\u0020the\u0020scribe\u0020and\u0020omitted\u0020by\u0020the\u0020transcriber;}">
+                <Coords points="223,1091 135,1095 135,1069 223,1066"/>
+                <Baseline points="140,1084 170,1083 201,1083 223,1082"/>
+                <TextEquiv>
+                    <Unicode>nerati</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_2" custom="readingOrder {index:34;}">
+                <Coords points="273,1064 750,1045 749,1090 690,1072 273,1089"/>
+                <Baseline points="273,1081 292,1080 323,1079 353,1078 384,1077 414,1076 445,1075 476,1075 511,1076 537,1073 567,1073 598,1072 628,1072 659,1071 689,1071 720,1070 751,1070"/>
+                <TextEquiv>
+                    <Unicode>fuerant mortui sunt ‧ Interea dux wladislaus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l36" custom="readingOrder {index:35;}">
+                <Coords points="144,1122 728,1112 729,1084 144,1090"/>
+                <Baseline points="149,1113 178,1112 207,1110 236,1110 265,1109 294,1108 323,1107 352,1107 381,1106 410,1106 439,1105 461,1114 497,1104 526,1104 555,1103 584,1103 613,1103 642,1102 671,1101 700,1100 729,1100"/>
+                <TextEquiv>
+                    <Unicode>frater dicti quondam Swatopluk / et hermanum et sezemam ba¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l38" custom="readingOrder {index:36;}">
+                <Coords points="140,1154 721,1159 722,1116 693,1107 141,1123"/>
+                <Baseline points="146,1139 174,1138 203,1137 232,1137 261,1136 290,1136 319,1136 348,1136 377,1135 406,1135 435,1135 463,1135 492,1135 521,1134 550,1134 579,1134 608,1133 637,1132 666,1132 695,1131 724,1130"/>
+                <TextEquiv>
+                    <Unicode>rones suos ad henricum ⸍⸍ regem ‧ qui tunc in Bamberg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

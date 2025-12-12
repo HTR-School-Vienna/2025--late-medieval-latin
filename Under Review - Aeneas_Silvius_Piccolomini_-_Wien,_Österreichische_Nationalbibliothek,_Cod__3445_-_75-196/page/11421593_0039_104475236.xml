@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2025-10-17T12:55:07.652+02:00</Created>
+        <LastChange>2025-11-23T20:15:36.920+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="11421593_0039_104475236.jpeg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1765535183226" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="645,430 2065,430 2065,2561 645,2561"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="646,468 2057,476 2044,476 2049,476 2049,472 2019,472 2021,448 2104,476 2105,476 646,438"/>
+                <Baseline points="646,468 2039,470"/>
+                <TextEquiv>
+                    <Unicode>oratoriaque construunt : tamque propitior in eis diuina bonitas nunciatur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1" custom="readingOrder {index:1;}">
+                <Coords points="646,526 2049,526 2049,534 2079,534 2079,496 646,496"/>
+                <Baseline points="646,526 2049,526"/>
+                <TextEquiv>
+                    <Unicode>sacerdotales uestes : altarum ornamenta : pallas : corporalia:   </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_2" custom="readingOrder {index:2;}">
+                <Coords points="646,575 2053,579 2053,549 646,545"/>
+                <Baseline points="646,575 2053,579"/>
+                <TextEquiv>
+                    <Unicode>calices : patenas uastique huiusce modi nil habere momenti:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_3" custom="readingOrder {index:3;}">
+                <Coords points="641,621 2057,621 2049,629 2070,650 2100,603 641,591"/>
+                <Baseline points="641,621 2057,621 2049,629"/>
+                <TextEquiv>
+                    <Unicode>sacerdotem quocumque loco quocumque tempore sacrum tristi corpus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_4" custom="readingOrder {index:4;}">
+                <Coords points="637,675 2057,670 2057,640 637,645"/>
+                <Baseline points="637,675 2057,670"/>
+                <TextEquiv>
+                    <Unicode>conficere posse petentibusque ministraere : sufficere si uerba sacra¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_5" custom="readingOrder {index:5;}">
+                <Coords points="646,728 2057,724 2069,724 2065,728 2053,749 2079,764 2089,746 2112,706 2057,694 646,698"/>
+                <Baseline points="646,728 2057,724"/>
+                <TextEquiv>
+                    <Unicode>mentalia tamen dixerit  : suffragia sanctorum in celis tum cristo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_6" custom="readingOrder {index:6;}">
+                <Coords points="645,779 1981,773 1981,743 645,749"/>
+                <Baseline points="645,779 1981,773"/>
+                <TextEquiv>
+                    <Unicode>regnantum : frustra impetrari :  que iuuare non possunt :</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_7" custom="readingOrder {index:7;}">
+                <Coords points="640,840 2007,833 2004,835 2021,860 2052,819 640,810"/>
+                <Baseline points="640,840 2007,833 2004,835"/>
+                <TextEquiv>
+                    <Unicode>In canonicis horis decantandis : dicendisque : frustra tempus teri nulla die  </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_8" custom="readingOrder {index:8;}">
+                <Coords points="648,897 2038,894 2038,864 648,867"/>
+                <Baseline points="648,897 2038,894"/>
+                <TextEquiv>
+                    <Unicode>ob opere cessandum : nisi que dominica nunc appellatur : celebritates sanctorum </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_9" custom="readingOrder {index:9;}">
+                <Coords points="640,946 2027,948 2027,918 640,916"/>
+                <Baseline points="640,946 2027,948"/>
+                <TextEquiv>
+                    <Unicode>prorsus reiciendas : Ieumis quoque ab ecclesia institutis nichil in esse meriti </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_10" custom="readingOrder {index:10;}">
+                <Coords points="642,1010 2058,1005 2058,975 642,980"/>
+                <Baseline points="642,1010 2058,1005"/>
+                <TextEquiv>
+                    <Unicode>Sbinco cognomine lepus : clarus parentibus apud bohemos ortus per idem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_11" custom="readingOrder {index:11;}">
+                <Coords points="648,1059 2045,1054 2045,1051 2035,1064 2059,1082 2028,1100 2017,1026 648,1029"/>
+                <Baseline points="648,1059 2045,1054"/>
+                <TextEquiv>
+                    <Unicode>tempus ‧ pragensis ‧ ecclesiam : pontificio retinebat: Consilio et animo illustris:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_12" custom="readingOrder {index:12;}">
+                <Coords points="645,1110 2053,1110 2053,1080 645,1080"/>
+                <Baseline points="645,1110 2053,1110"/>
+                <TextEquiv>
+                    <Unicode>Qui orienti calamitati obuiam nostre cupiens : priusque amplius debaccaertur :</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_13" custom="readingOrder {index:13;}">
+                <Coords points="640,1174 2061,1174 2061,1144 640,1144"/>
+                <Baseline points="640,1174 2061,1174"/>
+                <TextEquiv>
+                    <Unicode>libros iohannis Uicliffi : ad se serui : omnesque doctorum uirorum adhibito consilio </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_14" custom="readingOrder {index:14;}">
+                <Coords points="640,1239 2053,1236 2053,1206 640,1209"/>
+                <Baseline points="640,1239 2053,1236"/>
+                <TextEquiv>
+                    <Unicode>publice concremaius iussit ‧ Supra CC ‧ uolumina fuisse traduntur pulcherrime</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_15" custom="readingOrder {index:15;}">
+                <Coords points="642,1295 2058,1295 2058,1265 642,1265"/>
+                <Baseline points="642,1295 2058,1295"/>
+                <TextEquiv>
+                    <Unicode>conscripta bullis aureis tegumentisque preciosis ornata ‧ iohanni predicatori </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_16" custom="readingOrder {index:16;}">
+                <Coords points="642,1334 2053,1344 2053,1314 642,1304"/>
+                <Baseline points="642,1334 2053,1344"/>
+                <TextEquiv>
+                    <Unicode>interdicta et adiecte minime : si qui priores in populum errores uolgare</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_17" custom="readingOrder {index:17;}">
+                <Coords points="642,1390 1992,1388 1979,1388 1979,1418 1932,1388 642,1360"/>
+                <Baseline points="642,1390 1958,1391"/>
+                <TextEquiv>
+                    <Unicode>fuit auderet ipse praga excidens : aput uillam : unde sibi origo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_18" custom="readingOrder {index:18;}">
+                <Coords points="648,1452 2043,1444 2045,1444 2045,1414 2043,1414 648,1422"/>
+                <Baseline points="648,1452 2043,1444 2045,1444"/>
+                <TextEquiv>
+                    <Unicode>fuit : ac cognomen permittente loci domino : qui eius insanie fauebat : uocacitur </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_19" custom="readingOrder {index:19;}">
+                <Coords points="648,1503 1999,1493 1999,1463 648,1473"/>
+                <Baseline points="648,1503 1999,1493"/>
+                <TextEquiv>
+                    <Unicode>plebes ‧ ac docere non destitit multa in romanum presulem : multa in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_20" custom="readingOrder {index:20;}">
+                <Coords points="645,1555 2002,1542 2002,1512 645,1525"/>
+                <Baseline points="645,1555 2002,1542"/>
+                <TextEquiv>
+                    <Unicode>reliquos ecclesie pontifices : maledicta congerens ‧ utque populi animos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_21" custom="readingOrder {index:21;}">
+                <Coords points="645,1601 1979,1601 1979,1571 645,1571"/>
+                <Baseline points="645,1601 1979,1601"/>
+                <TextEquiv>
+                    <Unicode>magis : ac magis conciliaret : decimas aut aliter quam elemosinas :</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_22" custom="readingOrder {index:22;}">
+                <Coords points="650,1650 2040,1650 2040,1620 650,1620"/>
+                <Baseline points="650,1650 2040,1650"/>
+                <TextEquiv>
+                    <Unicode>sacerdotibus debitas liberum esse predia possidentibus si uelint: ea dare</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_23" custom="readingOrder {index:23;}">
+                <Coords points="648,1706 2027,1704 2027,1674 648,1676"/>
+                <Baseline points="648,1706 2027,1704"/>
+                <TextEquiv>
+                    <Unicode>si nolint : nullo iure cogi posse ‧ nondum error de sacramento : altaris</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_24" custom="readingOrder {index:24;}">
+                <Coords points="650,1753 2035,1747 2035,1717 650,1723"/>
+                <Baseline points="650,1753 2035,1747"/>
+                <TextEquiv>
+                    <Unicode>iurepserat ‧ Sed attidit nouam pestem : petrus trasensis : id est opidum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_25" custom="readingOrder {index:25;}">
+                <Coords points="653,1812 2045,1809 2045,1779 653,1782"/>
+                <Baseline points="653,1812 2045,1809"/>
+                <TextEquiv>
+                    <Unicode>mis ne super albim situm ‧ Qui cum alis theutonibus paulo ante bohemiai</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_26" custom="readingOrder {index:26;}">
+                <Coords points="653,1868 2030,1858 2030,1828 653,1838"/>
+                <Baseline points="653,1868 2025,1858"/>
+                <TextEquiv>
+                    <Unicode>reliquerat : cognitus inter suos : quia ualdensi lepra infertus esset:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_27" custom="readingOrder {index:27;}">
+                <Coords points="645,1922 2056,1917 2056,1922 2086,1922 2086,1887 645,1892"/>
+                <Baseline points="645,1922 2056,1917"/>
+                <TextEquiv>
+                    <Unicode>patria perulsus : uelut hereticorum asilum pragam reperiit : puerorumque</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_28" custom="readingOrder {index:28;}">
+                <Coords points="645,1979 2038,1981 2038,1951 645,1949"/>
+                <Baseline points="645,1979 2038,1981"/>
+                <TextEquiv>
+                    <Unicode>docendorum curam accepit ‧ apud ecclesiam sancti michalielis per id temporis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_29" custom="readingOrder {index:29;}">
+                <Coords points="655,2022 1992,2025 1992,1995 655,1992"/>
+                <Baseline points="655,2022 1976,2022"/>
+                <TextEquiv>
+                    <Unicode>populum predicando instruebat : Iacobellus insinem irarum doctrina : </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_30" custom="readingOrder {index:30;}">
+                <Coords points="653,2084 2043,2084 2043,2054 653,2054"/>
+                <Baseline points="653,2084 2018,2084"/>
+                <TextEquiv>
+                    <Unicode>et morum prestancia : in ch(risto) clarus petrus aggressus mirari se ait</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_31" custom="readingOrder {index:31;}">
+                <Coords points="645,2133 2004,2133 2012,2138 2028,2113 2012,2104 645,2103"/>
+                <Baseline points="645,2133 2004,2133"/>
+                <TextEquiv>
+                    <Unicode>doctum et sanctum uirum qui domina cloquia plebibus exponeret :</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_32" custom="readingOrder {index:32;}">
+                <Coords points="645,2187 2004,2177 2004,2147 645,2157"/>
+                <Baseline points="645,2187 2004,2177"/>
+                <TextEquiv>
+                    <Unicode>errorem illum non animaduertisse : communionis eucharistie qui iam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_33" custom="readingOrder {index:33;}">
+                <Coords points="642,2251 2053,2243 2053,2213 642,2221"/>
+                <Baseline points="642,2251 2053,2243"/>
+                <TextEquiv>
+                    <Unicode>pridem ecclesiam perfundasset ‧ in qua sub una tamen specie dominicum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_34" custom="readingOrder {index:34;}">
+                <Coords points="642,2318 1989,2300 1989,2270 642,2288"/>
+                <Baseline points="642,2318 1989,2300"/>
+                <TextEquiv>
+                    <Unicode>corpus populo ministratur : cum aput iohannem ewangelistam et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_35" custom="readingOrder {index:35;}">
+                <Coords points="642,2372 2007,2356 2007,2326 642,2342"/>
+                <Baseline points="642,2372 2007,2356"/>
+                <TextEquiv>
+                    <Unicode>apostulum Cristo dilectissimum : sub duplici specie panis uinique </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_36" custom="readingOrder {index:36;}">
+                <Coords points="642,2431 2030,2408 2030,2378 642,2401"/>
+                <Baseline points="642,2431 2030,2408"/>
+                <TextEquiv>
+                    <Unicode>summi iubeatur ‧ dicente apud eum saluatore : nisi manducaueritis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_37" custom="readingOrder {index:37;}">
+                <Coords points="645,2493 2027,2462 2026,2432 644,2463"/>
+                <Baseline points="645,2493 2027,2462"/>
+                <TextEquiv>
+                    <Unicode>carmen filii hominis : et biberitis eius sanguinem : habebitis uitam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_38" custom="readingOrder {index:38;}">
+                <Coords points="650,2536 2020,2526 2020,2496 650,2506"/>
+                <Baseline points="650,2536 2020,2526"/>
+                <TextEquiv>
+                    <Unicode>in uobis ‧ commotus hiis iacobellus cum perquisitis uetustus seculorum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
